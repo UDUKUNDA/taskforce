@@ -16,11 +16,11 @@ This project is a comprehensive transaction management system built with Laravel
 ### Prerequisites
 - PHP >= 8.0
 - Composer
-- Laravel 9.x
+- Laravel 11
 - Node.js and npm (for asset compilation)
 - MySQL or any other supported database
 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/UDUKUNDA/taskforce.git
